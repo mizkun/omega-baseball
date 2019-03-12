@@ -1,0 +1,17 @@
+WindowsStandalone
+PlayerPath?
+/Users/kyohei/Unity/baseball/_Output/STYLY_ASSET/Windows/df3126e7-a2c0-449b-93ce-0f22234cb688
+SceneListBegin?
+Assets/STYLY_UPLOAD/df3126e7-a2c0-449b-93ce-0f22234cb688.unity
+SceneListEnd?
+abbf3953cae296bd88d80d301cf4f948 Assembly-CSharp.dll:VRM.VRMSpringBone
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+eb1b98eae58d1c3cddd6ef4553520642 UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+b8f057a5d96b66234b3230a0d800dcf6 UnityEngine.UI.dll:UnityEngine.UI.Image
+a4ef7c59ab7201ab109de36901ceb49b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+769e576fcd3f60fa29a2cccb9e8127d9 UnityEngine.UI.dll:UnityEngine.UI.Text
+16f4710b3b4bbd25974c40365692bcb1 PlayMaker.dll:.PlayMakerFixedUpdate
+ba98c6c92d8f2e753aa451a539a96ed9 PlayMaker.dll:.PlayMakerFSM
+195309ee113f4a7b0c5d69f31558c977 PlayMaker.dll:.PlayMakerGUI
+16f4710b3b4bbd25974c40365692bcb1 PlayMaker.dll:.PlayMakerTriggerEnter

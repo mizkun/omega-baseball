@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baseball", "baseball.csproj", "{9646B147-185E-5371-27F8-65662793405A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baseball.Editor", "baseball.Editor.csproj", "{DDFC5A3E-DCE7-F975-E92B-86C9A67D255F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9646B147-185E-5371-27F8-65662793405A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9646B147-185E-5371-27F8-65662793405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9646B147-185E-5371-27F8-65662793405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9646B147-185E-5371-27F8-65662793405A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFC5A3E-DCE7-F975-E92B-86C9A67D255F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFC5A3E-DCE7-F975-E92B-86C9A67D255F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFC5A3E-DCE7-F975-E92B-86C9A67D255F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFC5A3E-DCE7-F975-E92B-86C9A67D255F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

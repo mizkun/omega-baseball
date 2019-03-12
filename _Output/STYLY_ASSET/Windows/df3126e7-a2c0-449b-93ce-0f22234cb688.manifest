@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3919011914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bc577b2bc7fe63a834ab2afaea8deaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/STYLY_UPLOAD/df3126e7-a2c0-449b-93ce-0f22234cb688.unity
+Dependencies: []
